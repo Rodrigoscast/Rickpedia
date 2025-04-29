@@ -40,6 +40,5 @@ https://pokedex-project-web.netlify.app/
 
 ### 🎨 Imagens do projeto final
 
-![Pokédex Preview - Pikachu](assets/pikachu.png)
-![Pokédex Preview - Psyduck](assets/psyduck.png)
-![Pokédex Preview - Haunter](assets/haunter.png)
+![Home Page](imagens/Home Page.png)
+![Página do Personagem](imagens/Pagina de Personagem.png)
