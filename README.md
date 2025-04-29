@@ -36,7 +36,7 @@ Rick and Morty API 🧪
 React Router DOM ⚛️
 
 ### 🌐 Link para acessar o projeto
-https://pokedex-project-web.netlify.app/
+https://therickpedia.netlify.app
 
 ### 🎨 Imagens do projeto final
 
