@@ -1,12 +1,45 @@
-# React + Vite
+📚 Rickpedia - Enciclopédia Rick and Morty
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Rickpedia é uma aplicação web construída em ReactJS que consome a Rick and Morty API para listar e detalhar personagens da série.
+Inclui sistema de paginação, pesquisa por nome e navegação entre páginas.
 
-Currently, two official plugins are available:
+## 📌 Funcionalidades
+✅ Busca de Pokémon por nome  
+✅ Exibição de ID, altura, peso e tipos  
+✅ Imagem oficial do Pokémon  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Como instalar e rodar o projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/Rodrigoscast/Rickpedia.git
+cd rick-and-morty-app
+```
+
+### 2️⃣ Instalar dependências
+```bash
+npm install
+```
+
+### 3️⃣ Rodar o projeto
+```bash
+npm run dev
+```
+
+### 🛠️ Tecnologias utilizadas
+React.js ⚛️
+Fetch API 📡
+CSS3 🎨
+Rick and Morty API 🧪
+React Router DOM ⚛️
+
+### 🌐 Link para acessar o projeto
+https://pokedex-project-web.netlify.app/
+
+### 🎨 Imagens do projeto final
+
+![Pokédex Preview - Pikachu](assets/pikachu.png)
+![Pokédex Preview - Psyduck](assets/psyduck.png)
+![Pokédex Preview - Haunter](assets/haunter.png)
