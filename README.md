@@ -41,4 +41,4 @@ https://pokedex-project-web.netlify.app/
 ### 🎨 Imagens do projeto final
 
 ![Home Page](Imagens/home.png)
-![Página do Personagem](Imagens/personagem.png.png)
+![Página do Personagem](Imagens/personagem.png)
