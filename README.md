@@ -3,12 +3,6 @@
 Rickpedia é uma aplicação web construída em ReactJS que consome a Rick and Morty API para listar e detalhar personagens da série.
 Inclui sistema de paginação, pesquisa por nome e navegação entre páginas.
 
-## 📌 Funcionalidades
-✅ Busca de Pokémon por nome  
-✅ Exibição de ID, altura, peso e tipos  
-✅ Imagem oficial do Pokémon  
-
----
 
 ## 🚀 Como instalar e rodar o projeto
 
